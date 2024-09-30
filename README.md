@@ -65,11 +65,13 @@ Com base nas informações fornecidas, o programa irá classificar o herói em u
 - Radiante: XP maior ou igual a 10.001
 
 5. **💻 Exemplo de Execução**
+```bash
 Digite o nome do herói: Thor
 Digite a quantidade de XP do herói: 5500
 O Herói de nome Thor está no nível de Ouro
+ ```
 
-6. **📂 Estrutura de Arquivos**
+7. **📂 Estrutura de Arquivos**
 
 ├── NivelHeroi.js  # Script principal do classificador
 ├── README.md      # Este arquivo com a explicação do projeto
