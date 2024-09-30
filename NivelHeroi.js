@@ -1,28 +1,3 @@
-/*
-## O que deve ser utilizado?
--Variáveis
--Operadores
--Laços de Repetição
--Estrutura de Decisões
-
-## Objetivo:
-Crie uma variável para armazenar o nome e a quantidade de experiência(XP)
-de um herói, depois utilize uma estrutura de decisão para apresentar alguma
-das mensagens abaxixo:
-Se XP for menor que 1000 = Ferro
-Se XP for entre 1001 e 2000 = Bronze
-Se XP for entre 2001 e 5000 = Prata Ouro
-Se XP for entre 5001 e 8000 = Platina Diamante
-Se XP for entre 8001 e 9000 = Ascendente
-Se XP for entre 9001 e 10000 = Imortal
-Se XP for maior ou igual a 10001 = Radiante
-
-## Saída
-
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
-*/
-
 
 // Importando o módulo 'readline' para capturar a entrada do usuário no Node.js
 const readline = require('readline');
