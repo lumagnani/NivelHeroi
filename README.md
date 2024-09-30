@@ -31,16 +31,16 @@ O objetivo deste projeto é demonstrar o uso de conceitos básicos de programaç
   Se você ainda não clonou o repositório, use o comando abaixo:
 
   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git```
 
 2. **Navegar até o diretório do projeto:**
-cd nome-do-repositorio
+ ```cd nome-do-repositorio```
 
 
 3. **Executar o script:**
 Como o projeto usa readline para capturar a entrada do usuário no terminal, basta executar o arquivo JavaScript:
 
-node NivelHeroi.js
+ ```node NivelHeroi.js```
 
 4. **Interagir com o programa:**
 Após rodar o comando acima, o programa irá pedir que você insira:
