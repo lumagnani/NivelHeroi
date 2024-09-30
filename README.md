@@ -27,22 +27,25 @@ O objetivo deste projeto é demonstrar o uso de conceitos básicos de programaç
 
 ### Passos para rodar o projeto:
 
-1. **Clonar o repositório**:
+  1. **Clonar o repositório**:
   Se você ainda não clonou o repositório, use o comando abaixo:
 
   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git```
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
 
-2. **Navegar até o diretório do projeto:**
- ```cd nome-do-repositorio```
+  2. **Navegar até o diretório do projeto:**
+ ```bash cd nome-do-repositorio
+```
 
 
-3. **Executar o script:**
+  4. **Executar o script:**
 Como o projeto usa readline para capturar a entrada do usuário no terminal, basta executar o arquivo JavaScript:
 
- ```node NivelHeroi.js```
+ ```bash node NivelHeroi.js
+ ```
 
-4. **Interagir com o programa:**
+  4. **Interagir com o programa:**
 Após rodar o comando acima, o programa irá pedir que você insira:
 - O nome do herói.
 - A quantidade de XP do herói.
@@ -58,17 +61,17 @@ Com base nas informações fornecidas, o programa irá classificar o herói em u
 - Imortal: XP entre 9.001 e 10.000
 - Radiante: XP maior ou igual a 10.001
 
-5. **💻 Exemplo de Execução**
+  5. **💻 Exemplo de Execução**
 Digite o nome do herói: Thor
 Digite a quantidade de XP do herói: 5500
 O Herói de nome Thor está no nível de Ouro
 
-6. **📂 Estrutura de Arquivos**
+  6. **📂 Estrutura de Arquivos**
 
 ├── NivelHeroi.js  # Script principal do classificador
 ├── README.md      # Este arquivo com a explicação do projeto
 
-7. **📝 Melhorias Futuras**
+  7. **📝 Melhorias Futuras**
 Aqui estão algumas possíveis melhorias para o projeto:
 
 - Adicionar mais níveis de classificação.
