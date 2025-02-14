@@ -32,12 +32,12 @@ O objetivo deste projeto é demonstrar o uso de conceitos básicos de programaç
 
   ```bash
 
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/lumagnani/NivelHeroi.git
 ```
 
 2. **Navegar até o diretório do projeto:**
  ```bash
-cd nome-do-repositorio
+cd NivelHeroi
 ```
 
 
